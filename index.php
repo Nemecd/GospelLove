@@ -135,14 +135,14 @@
             <div class="column large-half medium-full">
                 <ul class="about-sched">
                     <li>
-                        <h4>Main Church Service</h4>
+                        <h4>Reconciliation Mission Ministration </h4>
                         <p>
                             Sunday - 9:00 AM | 1:00 PM | 4:30 PM <br>
                             1600 Amphitheatre Parkway, Mt. View, CA, 94043
                         </p>
                     </li>
                     <li>
-                        <h4>Kids Church</h4>
+                        <h4>Salvation Mission Tour</h4>
                         <p>
                             Sunday - 9:00 AM | 1:00 PM | 4:30 PM <br>
                             1600 Amphitheatre Parkway, Mt. View, CA, 94043
@@ -221,7 +221,7 @@
 
             <div class="column events-list__item">
                 <h3 class="display-1 events-list__item-title">
-                    <a href="#0" title="">2019 Kids Church Camp.</a>
+                    <a href="#0" title="">Divine Mission Project.</a>
                 </h3>
                 <p>
                     Et consequatur nihil odio odit voluptatem qui. Dolores doloribus
@@ -231,14 +231,14 @@
                     eius sint at quae est dolores. Beatae quo facere hic.
                 </p>
                 <ul class="events-list__meta">
-                    <li class="events-list__meta-date">Saturday, September 28, 2019</li>
-                    <li class="events-list__meta-time">8:00AM - 5:30PM</li>
+                    <li class="events-list__meta-date">Not Set</li>
+                    <li class="events-list__meta-time">Not Set</li>
                     <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
                 </ul>
             </div> <!-- end events-list__item -->
             <div class="column events-list__item">
                 <h3 class="display-1 events-list__item-title">
-                    <a href="#0" title="">Prayer Meeting.</a>
+                    <a href="#0" title=""> Potential Enterprise Believers Seminar.</a>
                 </h3>
                 <p>
                     Laborum distinctio minima doloribus reiciendis aut aliquid.
@@ -248,12 +248,12 @@
                     porro dolores consequatur optio animi aut facere.
                 </p>
                 <ul class="events-list__meta">
-                    <li class="events-list__meta-date">Saturday, July 27, 2019</li>
-                    <li class="events-list__meta-time">6:00PM - 8:30PM</li>
+                    <li class="events-list__meta-date">Not Set</li>
+                    <li class="events-list__meta-time">Not Set</li>
                     <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
                 </ul>
             </div> <!-- end events-list__item -->
-            <div class="column events-list__item">
+            <!-- <div class="column events-list__item">
                 <h3 class="display-1 events-list__item-title">
                     <a href="#0" title="">Youth Convergence.</a>
                 </h3>
@@ -269,8 +269,8 @@
                     <li class="events-list__meta-time">5:00PM - 6:30PM</li>
                     <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
                 </ul>
-            </div> <!-- end events-list__item -->
-            <div class="column events-list__item">
+            </div> end events-list__item -->
+            <!-- <div class="column events-list__item">
                 <h3 class="display-1 events-list__item-title">
                     <a href="#0" title="">Leadership Conference.</a>
                 </h3>
@@ -286,7 +286,7 @@
                     <li class="events-list__meta-time">2:00PM - 5:30PM</li>
                     <li class="events-list__meta-location">1600 Amphitheatre Parkway, Mt. View</li>
                 </ul>
-            </div> <!-- end events-list__item -->
+            </div> end events-list__item -->
 
         </div> <!-- end events-list -->
 
